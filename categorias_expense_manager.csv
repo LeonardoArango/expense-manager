@@ -1,0 +1,69 @@
+﻿Categoría Principal,Subcategoría,Tipo,Clasificación Tributaria,Nota / Uso
+Alimentación,Mercado y Abarrotes,expense,No Aplica,Compras de casa
+Alimentación,Restaurantes y Salidas,expense,No Aplica,Fines de semana
+Alimentación,Domicilios (Apps),expense,No Aplica,"Rappi, UberEats"
+Alimentación,Cafés y Snacks,expense,No Aplica,Gastos hormiga diarios
+Belleza y Cuidado,Barbería / Peluquería,expense,No Aplica,
+Belleza y Cuidado,Cuidado de la Piel (Skincare),expense,No Aplica,"Cremas, tratamientos"
+Belleza y Cuidado,Accesorios y Aseo Personal,expense,No Aplica,
+Educación,Cursos y Talleres,expense,No Aplica,Formación continua
+Educación,Libros y Material,expense,No Aplica,
+Educación,Educación Sobrino/Dependientes,expense,Deducible,Seguro educativo o pensión
+Entretenimiento,Cine y Eventos,expense,No Aplica,
+Entretenimiento,Hobbies y Pasatiempos,expense,No Aplica,
+Entretenimiento,Juegos y Loterías,expense,No Aplica,
+Familia,Ayuda Familiar / Mesada,expense,No Aplica,Apoyo a padres/familiares
+Financiero,4x1000,expense,Deducible,50% deducible
+Financiero,Comisiones Bancarias,expense,Deducible,Cuotas de manejo
+Financiero,Intereses Crédito Hipotecario,expense,Deducible,Clave para Renta
+Financiero,Intereses Otros Créditos,expense,No Aplica,Tarjetas de crédito
+Financiero,Contador / Asesoría,expense,No Aplica,Declaración de renta
+Hogar,Administración (Copropiedad),expense,No Aplica,Apto Medellín / Santa Marta
+Hogar,Arriendo,expense,No Aplica,Si aplica
+Hogar,Empleada / Aseo,expense,No Aplica,Personal de servicio
+Hogar,Mantenimiento y Reparaciones,expense,No Aplica,"Plomería, eléctrica"
+Hogar,Mobiliario y Decoración,expense,No Aplica,Muebles nuevos
+Hogar,Servicios: Agua,expense,No Aplica,
+Hogar,Servicios: Energía,expense,No Aplica,
+Hogar,Servicios: Gas,expense,No Aplica,
+Hogar,Servicios: Internet/TV,expense,No Aplica,
+Impuestos,Impuesto Predial,expense,Deducible,Propiedades
+Impuestos,Impuesto Renta,expense,No Aplica,Pago anual a la DIAN
+Ingresos,Arriendos Recibidos,income,Ingreso Gravable,Reserva del Mar
+Ingresos,Dividendos / Utilidades,income,Ingreso Gravable,Tekus
+Ingresos,Ganancia Ocasional,income,Ganancia Ocasional,Venta activos > 2 años
+Ingresos,Honorarios / Salario,income,Ingreso Gravable,
+Ingresos,Préstamos (Desembolsos),income,No Aplica,Dinero del banco (Deuda)
+Ingresos,Reembolsos,income,No Aplica,Devoluciones de dinero
+Ingresos,Rendimientos Financieros,income,Ingreso Gravable,Intereses de cuentas
+Inversiones,Aportes Finca Raíz,expense,No Aplica,Cuotas Casa Palmas
+Inversiones,Fondos / Fiducia,expense,No Aplica,"Tyba, Trii, etc."
+Inversiones,Nuevos Negocios,expense,No Aplica,Capital semilla
+Mascotas,Alimento Mascotas,expense,No Aplica,
+Mascotas,Veterinaria y Medicamentos,expense,No Aplica,
+Proyectos,Insumos y Materiales,expense,No Aplica,Específico de proyectos
+Proyectos,Mano de Obra,expense,No Aplica,Pagos a terceros
+Proyectos,Marketing y Publicidad,expense,No Aplica,Pauta digital
+Regalos,Cumpleaños y Fechas,expense,No Aplica,"Navidad, aniversarios"
+Regalos,Donaciones,expense,Deducible,Entidades certificadas
+Ropa,Ropa Deportiva,expense,No Aplica,
+Ropa,Ropa Trabajo / Formal,expense,No Aplica,
+Salud,Citas Médicas / Copagos,expense,Deducible,
+Salud,Farmacia y Medicamentos,expense,No Aplica,
+Salud,Gimnasio / Deportes,expense,No Aplica,
+Salud,Medicina Prepagada,expense,Deducible,"Sura, Colsanitas"
+Tecnología,Hardware (Equipos),expense,No Aplica,"PC, Celular, Cámaras"
+Tecnología,Software y Suscripciones,expense,No Aplica,"iCloud, OpenAI, Adobe"
+Transporte,Carga Eléctrica,expense,No Aplica,Tesla / Híbridos
+Transporte,Gasolina,expense,No Aplica,Motos / Cupra
+Transporte,Impuesto Vehicular,expense,Deducible,Si es activo productor
+Transporte,Lavado y Estética,expense,No Aplica,Detailing
+Transporte,Mantenimiento Mecánico,expense,No Aplica,Revisiones
+Transporte,Parqueaderos,expense,No Aplica,
+Transporte,Peajes,expense,No Aplica,Viajes
+Transporte,Seguros (Todo Riesgo),expense,No Aplica,Póliza Voluntaria
+Transporte,SOAT,expense,No Aplica,Obligatorio
+Transporte,Transporte Público / Apps,expense,No Aplica,"Uber, Taxi"
+Viajes,Alojamiento / Hoteles,expense,No Aplica,
+Viajes,Tiquetes Aéreos,expense,No Aplica,
+Viajes,Viáticos / Gastos Viaje,expense,No Aplica,Comidas en viaje
